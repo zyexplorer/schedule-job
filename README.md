@@ -38,40 +38,41 @@
 ### 现先上效果图，先睹为快
 ### Talk is cheap, show you the images!
 
-![img_1.png](doc/zy-images/img_1.png)
+![image](https://user-images.githubusercontent.com/48943780/116730413-0d5d7680-aa1b-11eb-9a54-0557668e06a3.png)
 
-![img_2.png](doc/zy-images/img_2.png)
+![image](https://user-images.githubusercontent.com/48943780/116730513-2a924500-aa1b-11eb-8a96-32b37f491c60.png)
 
-![img_3.png](doc/zy-images/img_3.png)
+![image](https://user-images.githubusercontent.com/48943780/116730574-3d0c7e80-aa1b-11eb-82f5-28b3afe7af6f.png)
 
-![img_4.png](doc/zy-images/img_4.png)
+![image](https://user-images.githubusercontent.com/48943780/116730644-51507b80-aa1b-11eb-9708-1ac4121271aa.png)
 
-![img_5.png](doc/zy-images/img_5.png)
+![image](https://user-images.githubusercontent.com/48943780/116730691-5f9e9780-aa1b-11eb-92c6-f7fad61387b4.png)
 
-![img_6.png](doc/zy-images/img_6.png)
+![image](https://user-images.githubusercontent.com/48943780/116730730-6b8a5980-aa1b-11eb-96a0-7a4a127ecd47.png)
 
-![img_7.png](doc/zy-images/img_7.png)
+![image](https://user-images.githubusercontent.com/48943780/116730789-7c3acf80-aa1b-11eb-8311-2bf0b835bf48.png)
 
-![img_8.png](doc/zy-images/img_8.png)
+![image](https://user-images.githubusercontent.com/48943780/116730827-88bf2800-aa1b-11eb-9e1a-e3e354620a71.png)
 
-![img_9.png](doc/zy-images/img_9.png)
+![image](https://user-images.githubusercontent.com/48943780/116730866-94125380-aa1b-11eb-9b4f-97d01bba5b73.png)
 
-![img_10.png](doc/zy-images/img_10.png)
+![image](https://user-images.githubusercontent.com/48943780/116730904-a12f4280-aa1b-11eb-8821-56af9ed078aa.png)
 
-![img_11.png](doc/zy-images/img_11.png)
+![image](https://user-images.githubusercontent.com/48943780/116730950-b1dfb880-aa1b-11eb-986b-b083006c94d9.png)
 
-![img_12.png](doc/zy-images/img_12.png)
+![image](https://user-images.githubusercontent.com/48943780/116731003-c1f79800-aa1b-11eb-8887-7e7fb63f72c3.png)
 
-![img_13.png](doc/zy-images/img_13.png)
+![image](https://user-images.githubusercontent.com/48943780/116731114-e05d9380-aa1b-11eb-9a95-23e3af3cf972.png)
 
-![img_14.png](doc/zy-images/img_14.png)
+![image](https://user-images.githubusercontent.com/48943780/116731155-eeabaf80-aa1b-11eb-862a-2e1e707234ae.png)
+
 
 #### 另外，本项目完全可以作为开发者自己或者测试人员用来做接口巡检的工具，进行自动化测试，将需要监测的接口配置在调度任务中，设置隔几分钟调度一次，调度一旦出现异常，则会发送报警邮件(后期我会抽时间加上钉钉报警)，及时处理异常情况。我司架构师脑洞不够大，无法理解这玩意儿怎么能够做自动化测试。本猿呵呵呵呵。工具，看你如何使用，会用的人才能发挥它更大的价值。
 下面再贴几张接口巡检效果图：
-![img_16.png](doc/zy-images/img_16.png)
-![img_17.png](doc/zy-images/img_17.png)
-![img_18.png](doc/zy-images/img_18.png)
-![img_19.png](doc/zy-images/img_19.png)
+![image](https://user-images.githubusercontent.com/48943780/116731218-008d5280-aa1c-11eb-951d-c84b5410164d.png)
+![image](https://user-images.githubusercontent.com/48943780/116731251-0b47e780-aa1c-11eb-9269-1cbefd8f0f15.png)
+![image](https://user-images.githubusercontent.com/48943780/116731347-261a5c00-aa1c-11eb-9e94-969a0bfa04a4.png)
+![image](https://user-images.githubusercontent.com/48943780/116731389-3599a500-aa1c-11eb-8256-52e06ccd87d6.png)
 
 ## 以上就是演示效果图，执行器与调度中心分离的demo不再赘述。下面简要说明使用方法。简单明了，5分钟上手。
 
@@ -81,7 +82,7 @@
 
 
 # 若此次修改对您有启发和帮助，可以请许老师或者本修改人喝杯咖啡。本猿非科班出身，半路出家，较穷，不敢跳，梦想是暴富😄。请许老师喝咖啡的请移步文末!
-![payCode.png](doc/zy-images/payCode.png)
+![image](https://user-images.githubusercontent.com/48943780/116731441-45b18480-aa1c-11eb-99aa-bed805af1fcb.png)
 
 # 本项目改自：https://gitee.com/xuxueli0323/xxl-job?_from=gitee_search
 
